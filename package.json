@@ -1,0 +1,24 @@
+{
+  "name": "react-native-rss",
+  "version": "0.0.1",
+  "description": "RSS feed parser for RN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmatsuZero/RCTRSSFeeder.git"
+  },
+  "keywords": [
+    "RSS",
+    "React",
+    "React-Native"
+  ],
+  "author": "Daubert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmatsuZero/RCTRSSFeeder/issues"
+  },
+  "homepage": "https://github.com/AmatsuZero/RCTRSSFeeder#readme"
+}
